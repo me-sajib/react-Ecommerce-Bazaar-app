@@ -1,0 +1,338 @@
+[
+  {
+    "id": "09045718929032458761",
+    "name": "Chuck Taylor",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408754/Shoes/pexels-zain-ali-1027130_cxh82b.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458762",
+    "name": "Golf shoes",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408856/Shoes/shoes_5_se3lv7.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458763",
+    "name": "Hiking boots",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408810/Shoes/shoes_11_qqcc5u.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458764",
+    "name": "Running shoes",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408755/Shoes/shoes_2_n1shjc.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458765",
+    "name": "Climbing shoes",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408750/Shoes/shoes_1_lc8iko.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458766",
+    "name": "Soccer shoes",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408747/Shoes/shoes_13_znvhme.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458767",
+    "name": "Sneakers (U.S)/ Trainers (U.K)",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408747/Shoes/shoes_6_iuuph6.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458768",
+    "name": "Old skool",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408743/Shoes/shoes_12_diyphp.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458769",
+    "name": "Basketball shoes",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408731/Shoes/shoes_9_q0ah2v.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458710",
+    "name": "Ice-skates",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408730/Shoes/shoes_10_wvgvv0.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458711",
+    "name": "Knee high boots",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408727/Shoes/shoes_7_nydnmq.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458712",
+    "name": "Insulated boots",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408713/Shoes/shoes_8_uvhiph.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458713",
+    "name": "Work boots",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408702/Shoes/shoes_3_moooim.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458714",
+    "name": "Combat boots",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408701/Shoes/shoes_4_k1n12j.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09045718929032458715",
+    "name": "Uggs",
+    "price": "2899",
+    "category": "Shoes",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408698/Shoes/pexels-pixabay-267301_arhg2u.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090457189290324098401",
+    "name": "Tiara",
+    "price": "2899",
+    "category": "Jewelry",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408621/jewelry/jewelry_3_tkovwd.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090457189290324098402",
+    "name": "Earrings",
+    "price": "2899",
+    "category": "Jewelry",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408619/jewelry/jewelry_4_d8darj.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090457189290324098403",
+    "name": "History",
+    "price": "2899",
+    "category": "Jewelry",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408614/jewelry/jewelry_7_fygwqs.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090457189290324098404",
+    "name": "Style",
+    "price": "2899",
+    "category": "Jewelry",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408607/jewelry/jewelry_5_fdeqwx.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090457189290324098405",
+    "name": "Ear cuffs",
+    "price": "2899",
+    "category": "Jewelry",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408604/jewelry/jewelry_2_wfofi3.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090457189290324098406",
+    "name": "Hairpins",
+    "price": "2899",
+    "category": "Jewelry",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408603/jewelry/jewelry_9_poxnyl.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090457189290324098407",
+    "name": "Hair rings",
+    "price": "2899",
+    "category": "Jewelry",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408598/jewelry/jewelry_8_eu3jgb.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090457189290324098408",
+    "name": "Hatpins",
+    "price": "2899",
+    "category": "Jewelry",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408595/jewelry/jewelry_1_nnpvf0.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090457189290324098409",
+    "name": "Sarpech",
+    "price": "2899",
+    "category": "Jewelry",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649408590/jewelry/jewelry_6_fyes4e.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428701",
+    "name": "Jaeger-LeCoultre",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411348/Watch/watch_14_xxdfgk.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428702",
+    "name": "Audemars Piguet",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411346/Watch/watch_18_f47sox.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428703",
+    "name": "Frédérique Constant",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411338/Watch/watch_3_xzxv5l.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428704",
+    "name": "Piaget",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411334/Watch/watch_9_jvhj2p.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428705",
+    "name": "Cartier",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411334/Watch/watch_17_lshqyc.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428706",
+    "name": "Harry Winston",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411318/Watch/watch_16_hbc0q4.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428707",
+    "name": "Blancpain",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411329/Watch/watch_15_nmx5s5.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428708",
+    "name": "Longines",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411326/Watch/watch_12_pilrjx.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428709",
+    "name": "Zenith",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411319/Watch/watch_1_sxfmcu.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428710",
+    "name": "Tudor",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411318/Watch/watch_16_hbc0q4.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "09039708909062428711",
+    "name": "Omega",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411318/Watch/watch_2_ao4nmx.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090397089090624287012",
+    "name": "Rolex",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411311/Watch/watch_11_kaox77.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090397089090624287013",
+    "name": "Patek Philippe",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411312/Watch/watch_10_bist9w.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090397089090624287014",
+    "name": "Vacheron Constantin",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411310/Watch/watch_4_bxd53u.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090397089090624287015",
+    "name": "Van Cleef & Arpels",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411310/Watch/watch_5_azimsb.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090397089090624287016",
+    "name": "Tag Heuer",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411310/Watch/watch_6_ueqbb3.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090397089090624287017",
+    "name": "Panerai",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411307/Watch/watch_8_aqt7pp.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  },
+  {
+    "id": "090397089090624287018",
+    "name": "Hublot",
+    "price": "2899",
+    "category": "Watch",
+    "image": "https://res.cloudinary.com/dvkumvgu9/image/upload/v1649411306/Watch/watch_7_fxrs91.jpg",
+    "details": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+  }
+]
