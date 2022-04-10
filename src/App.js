@@ -1,15 +1,11 @@
-import Header from "./components/Header/Header";
-import Details from "./components/Details/Details";
-import LogIn from "./components/Login/LogIn";
-import SignUp from "./components/SignUp/SignUp";
+import Nav from "./components/Nav/Nav";
+import Products from "./components/Products/Products";
 
 function App() {
   return (
     <div>
-      <Header />
-      <Details></Details>
-      <LogIn />
-      <SignUp />
+      <Nav />
+      <Products />
     </div>
   );
 }
