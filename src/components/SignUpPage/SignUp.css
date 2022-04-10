@@ -1,0 +1,53 @@
+.container{
+    margin: 30px;
+}
+.signUp-container{
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 80px 70px;
+    text-align: center;
+    background-color:burlywood;
+}
+.text{
+    margin-bottom: 70px;
+}
+.input-field{
+    padding: 10px;
+    margin: 10px;
+    outline-color: beige;
+    background-color: white;
+    outline-style: solid;
+    border: 0;
+    border-radius: 3px;
+    outline-color: beige;
+    cursor: text;
+}
+.name-field{
+    width: 40%;
+}
+.email-field{
+    width: 50%;
+}
+.pass-field{
+    width: 50%;
+}
+.btn{
+    padding: 15px 30px;
+    background-color:saddlebrown;
+    color: black;
+    border: 0;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+.forget-pass{
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+}
