@@ -26,7 +26,10 @@ const Details = () => {
                         <br />
                         <br />
                         <span className='button-span'>
-                        <input className='comon-css-input' type="text"  /><button className='btns'> <i class="fa-solid fa-cart-plus"></i> add to cart</button></span>
+                        <input className='comon-css-input' type="number"  />
+                        <a href="#dd">
+                            <button className='btns'> <i class="fa-solid fa-cart-plus"></i> add to cart</button>
+                            </a></span>
                      </div>
 
                  </div>
@@ -36,7 +39,7 @@ const Details = () => {
                      <h1>Details About Product</h1>
                          {/* deatils of products */}
                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae laborum veritatis eaque. Natus velit eius veniam beatae laborum, id autem consequatur at dolores quas eligendi est quo delectus deleniti id autem consequatur at dolores quas eligendi est quo delectus delenitiasperiores.</p>
-                     <button className='btnss'> <i class="fa-solid fa-trash-can"></i> Delete Product</button>
+                     
 
                  
 
